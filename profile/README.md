@@ -11,6 +11,11 @@
 ## Brief Explanation
 Batin is an emotion tracker app that lets you manage your emotions based on the activity you've done each day. You may also get the recommended activity to boost your emotion stability.
 
+## Repositories
+1. [API Server](https://github.com/Batin-App/server)
+2. [Mobile App](https://github.com/Batin-App/mobile)
+3. [Machine Learning](https://github.com/Batin-App/model)
+
 ## Pitch
 [Watch our pitch video here!](https://www.youtube.com/watch?v=_w6JZ8Ozc5I&t=3s)
 
